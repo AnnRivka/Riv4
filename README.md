@@ -1,1 +1,4 @@
-# Riv4
+#incluse<stdio.h>
+int main(){
+printf("starting with git");
+}
